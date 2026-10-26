@@ -1,6 +1,6 @@
-# My 1st idea (Julien's idea)
+# My 3rd Idea
 
-- What it is: A website about recycling awareness
-- Who it's for: People unaware of recycling or do not believe that recyclers recycle
-- Their problem: The environment, more materials
-- One person I can talk to about it: Julien, a kid i met at the idea event
+- What it is: A website about my 3d printing startup
+- Who it's for: Me, so that I can create a business for income
+- Their problem: I need to learn essential skills and my family needs a source of income
+- One person I can talk to about it: My mom and dad can help, and finding potential clients
