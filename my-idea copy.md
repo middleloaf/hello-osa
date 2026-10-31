@@ -9,3 +9,7 @@ Other notes i added:
 
 Website Builder
 Make blocks to build builder
+
+brand foundation -> customer journey -> wireframe -> mvp
+
+make prototype first
